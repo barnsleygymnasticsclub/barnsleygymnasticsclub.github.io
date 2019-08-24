@@ -30,6 +30,8 @@ collections:
       responsive_design.md
       web_security.md
       ecommerce.md
+  
+    portfolios
 
 # Build settings
 plugins:
