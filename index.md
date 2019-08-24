@@ -54,7 +54,7 @@ title: Welcome to Barnsley Gymnastics Club
             <p class="text-muted">{{ portfolio.category }}</p>
           </div>
         </div>
-        {{ endfor }}
+        {% endfor %}
     </div>
   </section>
 
