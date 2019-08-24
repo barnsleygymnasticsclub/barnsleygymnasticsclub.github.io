@@ -3,15 +3,11 @@
 
   {%- include head.html -%}
 
-  <body>
-
+  <body id="page-top">
+    {%- include navigation.html -%}
     {%- include header.html -%}
 
-    <div class="py-5">
-      <div class="container page-content">
-          {{ content }}
-      </div>
-    </div>
+    {{ content }}
 
     {%- include footer.html -%}
 

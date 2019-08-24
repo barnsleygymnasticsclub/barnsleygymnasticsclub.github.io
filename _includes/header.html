@@ -1,26 +1,9 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <div class="container">
-    <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    {%- assign page_paths = site.header_pages -%}
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav ml-auto">
-        {%- for path in page_paths -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          </li>
-          {%- endif -%}
-        {% endfor -%}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
-        </li>
-      </ul>
+<header class="masthead">
+    <div class="container">
+      <div class="intro-text">
+        <div class="intro-lead-in">Welcome To Our Studio!</div>
+        <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+      </div>
     </div>
-  </div>
-</nav>
+  </header>
