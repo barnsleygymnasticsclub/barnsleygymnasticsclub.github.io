@@ -31,7 +31,7 @@ collections:
       web_security.md
       ecommerce.md
   
-  portfolios
+  portfolios:
 
 # Build settings
 plugins:
