@@ -20,7 +20,9 @@ title: Welcome to Barnsley Gymnastics Club
                 <i class="fas fa-{{ service.fa_icon }} fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">{{ service.heading}}</h4>
-            
+            <p class="text-muted">
+                    {{ service.content }}
+            </p>
         </div>
         {% endfor %}
       </div>
