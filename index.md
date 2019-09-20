@@ -2,8 +2,6 @@
 layout: home
 title: Welcome to Barnsley Gymnastics Club
 ---
-
-<!-- Services -->
   <section class="page-section" id="services">
     <div class="container">
       <div class="row">
@@ -20,16 +18,15 @@ title: Welcome to Barnsley Gymnastics Club
                 <i class="fas fa-{{ service.fa_icon }} fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">{{ service.heading}}</h4>
-            <p class="text-muted">
-                    {{ service.content | markdownify }}
-            </p>
+            <div class="text-muted">
+                    {{ service.content }}
+            </div>
         </div>
         {% endfor %}
       </div>
     </div>
   </section>
 
-  <!-- Portfolio Grid -->
   <section class="bg-light page-section" id="portfolio">
     <div class="container">
       <div class="row">
@@ -51,14 +48,14 @@ title: Welcome to Barnsley Gymnastics Club
           </a>
           <div class="portfolio-caption">
             <h4>{{ portfolio.client }}</h4>
-            <p class="text-muted">{{ portfolio.category }}</p>
+            <div class="text-muted">{{ portfolio.category }}</div>
           </div>
         </div>
         {% endfor %}
+      </div>
     </div>
   </section>
 
-  <!-- About -->
   <section class="page-section" id="about">
     <div class="container">
       <div class="row">
@@ -139,7 +136,6 @@ title: Welcome to Barnsley Gymnastics Club
     </div>
   </section>
 
-  <!-- Team -->
   <section class="bg-light page-section" id="team">
     <div class="container">
       <div class="row">
@@ -230,35 +226,6 @@ title: Welcome to Barnsley Gymnastics Club
     </div>
   </section>
 
-  <!-- Clients -->
-  <section class="py-5">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-3 col-sm-6">
-          <a href="#">
-            <img class="img-fluid d-block mx-auto" src="assets/img/logos/envato.jpg" alt="">
-          </a>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <a href="#">
-            <img class="img-fluid d-block mx-auto" src="assets/img/logos/designmodo.jpg" alt="">
-          </a>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <a href="#">
-            <img class="img-fluid d-block mx-auto" src="assets/img/logos/themeforest.jpg" alt="">
-          </a>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <a href="#">
-            <img class="img-fluid d-block mx-auto" src="assets/img/logos/creative-market.jpg" alt="">
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Contact -->
   <section class="page-section" id="contact">
     <div class="container">
       <div class="row">
@@ -303,7 +270,6 @@ title: Welcome to Barnsley Gymnastics Club
     </div>
   </section>
 
-  <!-- Footer -->
   <footer class="footer">
     <div class="container">
       <div class="row align-items-center">
@@ -343,9 +309,7 @@ title: Welcome to Barnsley Gymnastics Club
     </div>
   </footer>
 
-  <!-- Portfolio Modals -->
 {% for portfolio in site.portfolios %}
-
   <div class="portfolio-modal modal fade" id="portfolio{{ portfolio.client }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
@@ -362,7 +326,7 @@ title: Welcome to Barnsley Gymnastics Club
                 <h2 class="text-uppercase">{{ portfolio.name }}</h2>
                 <p class="item-intro text-muted">{{ portfolio.intro }}</p>
                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/{{ portfolio.full_image }}" alt="">
-                <p>{{ portfolio.content | markdownify }}</p>
+                <div>{{ portfolio.content | markdownify }}</div>
                 <ul class="list-inline">
                   <li>Date: {{ portfolio.date }}</li>
                   <li>Client: {{ portfolio.client }}</li>
@@ -379,5 +343,4 @@ title: Welcome to Barnsley Gymnastics Club
     </div>
   </div>
 {% endfor %}
-
   </div>
