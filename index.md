@@ -18,22 +18,14 @@ title: Welcome to Barnsley Gymnastics Club
                 <i class="fas fa-{{ service.fa_icon }} fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">{{ service.heading}}</h4>
-<<<<<<< HEAD
-            <p class="text-muted">
-                    {{ service.content }}
-            </p>
-=======
             <div class="text-muted">
                     {{ service.content }}
             </div>
->>>>>>> before-removed-stuff
         </div>
         {% endfor %}
       </div>
     </div>
   </section>
-<<<<<<< HEAD
-=======
 
   <section class="bg-light page-section" id="portfolio">
     <div class="container">
@@ -352,4 +344,3 @@ title: Welcome to Barnsley Gymnastics Club
   </div>
 {% endfor %}
   </div>
->>>>>>> before-removed-stuff
