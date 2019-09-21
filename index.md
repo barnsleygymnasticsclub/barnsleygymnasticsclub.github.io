@@ -343,4 +343,3 @@ title: Welcome to Barnsley Gymnastics Club
     </div>
   </div>
 {% endfor %}
-  </div>
