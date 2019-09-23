@@ -24,7 +24,7 @@ url: "https://www.barnsleygymnastics.club" # the base hostname & protocol for yo
 
 repository: "barnsleygymnasticsclub/barnsleygymnasticsclub.github.io"
 
-reload: true
+livereload: true
 
 collections:
   services:
@@ -34,6 +34,8 @@ collections:
       ecommerce.md
   
   portfolios:
+  
+  team:
 
 # Build settings
 plugins:
