@@ -35,8 +35,24 @@ collections:
 
 # Build settings
 plugins:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+#optional plugins
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-mentions
+#  - jekyll-include-cache #Not needed for GH Pages, unless it's a monster site
 
 # A list of the pages to display in the navigation bar
 header_pages:
