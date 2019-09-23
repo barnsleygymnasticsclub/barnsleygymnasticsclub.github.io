@@ -4,6 +4,7 @@ services:
     command: jekyll serve --force_polling --watch --config  _config.yml
     ports:
       - "4000:4000"
+      - "35729:35729"
     image: "jekyll/jekyll:pages"
     volumes:
       - .:/srv/jekyll
