@@ -1,5 +1,5 @@
 ---
-
+layout: portfolio
 client: Finish
 thumbnail: 03-thumbnail.jpg
 category: Identity

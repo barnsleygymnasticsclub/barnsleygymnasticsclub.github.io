@@ -1,5 +1,5 @@
 ---
-
+layout: portfolio
 client: Threads
 thumbnail: 01-thumbnail.jpg
 category: Illustration

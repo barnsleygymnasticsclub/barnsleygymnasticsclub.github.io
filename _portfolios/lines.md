@@ -1,5 +1,5 @@
 ---
-
+layout: portfolio
 client: Lines
 thumbnail: 04-thumbnail.jpg
 category: Branding

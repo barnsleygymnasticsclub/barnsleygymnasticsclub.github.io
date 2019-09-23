@@ -1,5 +1,5 @@
 ---
-
+layout: portfolio
 client: Explore
 thumbnail: 02-thumbnail.jpg
 category: Graphic Design
