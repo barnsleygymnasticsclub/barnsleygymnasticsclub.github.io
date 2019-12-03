@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Welcome to Barnsley Gymnastics Club
+title: Barnsley Gymnastics Club
 ---
