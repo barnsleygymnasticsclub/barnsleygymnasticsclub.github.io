@@ -7,25 +7,9 @@
         </div>
       </div>
       <div class="row">
-        {% for portfolio in site.portfolios %}
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolio{{ portfolio.client }}">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" src="assets/img/portfolio/{{ portfolio.thumbnail }}" alt="">
-          </a>
-          <div class="portfolio-caption">
-            <h4>{{ portfolio.client }}</h4>
-            <div class="text-muted">{{ portfolio.category }}</div>
-          </div>
-        </div>
+          {% for portfolio in site.portfolios %}
+          {{portfolio}}  
         {% endfor %}
       </div>
     </div>
   </section>
-{% for portfolio in site.portfolios %}
-  {{portfolio}}  
-{% endfor %}
