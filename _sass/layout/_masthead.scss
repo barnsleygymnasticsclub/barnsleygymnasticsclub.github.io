@@ -45,6 +45,7 @@ header.masthead {
         margin-bottom: 50px;
         @include heading-font;
         color: $primary;
+        -webkit-text-fill-color: $primary;
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: black;
       }
