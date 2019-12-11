@@ -1,6 +1,6 @@
 ---
 layout: team
-name: Nick Appleby
+name: Nick Appleyard
 image: assets/img/team/clint.jpg
 job_title: Coach / Manager
 sort_order: 8
