@@ -66,3 +66,4 @@ header_pages:
 # to override the default setting.
 exclude:
   - "docker-compose.yml"
+  - "CNAME"
