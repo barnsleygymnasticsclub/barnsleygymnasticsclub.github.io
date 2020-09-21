@@ -6,6 +6,18 @@ sass:
     sass_dir: _sass
 #    style: compressed
 
+optional_front_matter:
+    remove_originals: true
+
+defaults:
+    -
+        scope:
+            path: "" 
+            type: "pages"
+        values:
+            layout: "page"
 plugins:
     - jekyll-seo-tag
     - jekyll-feed
+    - jekyll-coffeescript
+    - jekyll-optional-front-matter
