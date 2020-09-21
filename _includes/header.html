@@ -1,9 +1,55 @@
-<header class="masthead">
-    <div class="container">
-      <div class="intro-text">
-        <div class="intro-lead-in">Barnsley Gymnastics Club</div>
-        <div class="intro-heading text-uppercase">Bigger, Better, Brighter, Bolder</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="mailto:nick@barnsleygymnastics.club">Tell Me More</a>
+    <section class="bg-info d-none d-md-block text-dark" id="topbar">
+        <div class="container">
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="contact-info float-left">
+                    <ul class="list-group list-group-horizontal bg-transparent">
+                        <li class="list-group-item bg-transparent border-0"><i class="fa fa-phone"></i> 01226&nbsp;728972 </li>
+                        <li class="list-group-item bg-transparent border-0"><i class="fa fa-clock"></i> Mon - Fri: 4:00PM - 9:00PM    Sat : 9:00AM - 12:30PM</li>
+                    </ul>
+                </div> <!-- /.contact-info -->
+                <div class="social float-right">
+                    <ul class="list-group list-group-horizontal bg-transparent">
+                        <li class="list-group-item bg-transparent border-top-0 border-bottom-0"><a href="https://www.facebook.com/barnsleygymnastics" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                        <li class="list-group-item bg-transparent border-top-0 border-bottom-0"><a href="https://www.instagram.com/barnsleygymnasticsclub/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div> <!-- /.social -->
+            </div>    
+            </div>
+        </div>
+    </section>
+    <header class="sticky-top">
+        <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+        <div class="container">
+        <a class="navbar-brand" href="{{ site.baseurl }}{% link index.md %}"><img src="{{ site.baseurl }}/assets/img/logo.png" class="logo logo-scrolled" alt=""></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                News
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                {% for post in site.posts %}
+                  <a class="dropdown-item" href="{{ post.url }}">{{ post.title }}</a>
+                {% endfor %}
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="{{ site.baseurl }}{% link news.md %}">Previous News...</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}{% link about.md %}">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}{% link contact.md %}">Contact Us</a>
+            </li>
+          </ul>
+          <a href="#" class="btn btn-info btn-lg" >Join Us</a>
+          </ul>
+        </div>
       </div>
-    </div>
-  </header>
+      </nav>
+</header>
