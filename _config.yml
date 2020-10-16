@@ -4,7 +4,7 @@ theme:
 
 sass:
     sass_dir: _sass
-#    style: compressed
+    style: compressed
 
 optional_front_matter:
     remove_originals: true
