@@ -16,3 +16,8 @@
     position: absolute;
     background-color: rgba($light, 0.5);
 }
+
+iframe {
+    width:1px;
+    min-width: 100%;
+}

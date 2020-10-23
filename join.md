@@ -1,12 +1,13 @@
 <section id="about">
     <div class="container">
         <div class="row">
-            <div class="embed-responsive embed-responsive-16by9">
-            <iframe id="ifrmresize" class="embed-responsive-item"
+            <iframe id="ifrmresize"
                     src="https://app.loveadmin.com/Registration/1B4ECEBB1C3D326EEE7090B9D146EFCB.htm"
-                    width="100%" height="100%">
+                    width="100%">
             </iframe>
+            <script>
+                iFrameResize({ log: true, autoResize: true  }, '#ifrmresize')
+            </script>
             </div>
-        </div>
     </div>
 </section>
