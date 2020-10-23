@@ -1,8 +1,8 @@
 <section id="about">
     <div class="container">
         <div class="row">
-        <p>As the parent/carer of a gymnast at Allegro Gymnastics Academy, I agree to the following:</p>
-        <p>I Will:</p>
+        <p>As the parent/carer of a gymnast at Barnsley Gymnastics Club Ltd, I agree to the following:</p>
+        <p>I will:</p>
         <ul>
         <li>Ensure that my child understands the gymnasts code of conduct and adheres to it</li>
         <li>Bring my child into the building no later than 5 minutes before their session starts, make sure that they sign in at the Reception desk and remain in the reception area until they have entered the gym.</li>
