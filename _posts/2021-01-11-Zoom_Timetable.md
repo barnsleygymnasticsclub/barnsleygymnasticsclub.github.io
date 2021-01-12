@@ -29,3 +29,5 @@ title: Zoom Time Table
 | 12.30 | Acro all levels, Advanced and Minis | Chrystal/Kim |
 
 *All gymnasts are welcome to attend any and all classes.  We are unable to practice skills, so they are all aimed at keeping your child's strength and flexibility, and keeping everyone in touch with their friends.
+
+If you have not received the details to join the calls, please email us at <info@barnsleygymnastics.club>
