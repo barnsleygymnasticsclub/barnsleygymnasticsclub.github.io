@@ -22,8 +22,6 @@ title: Zoom Time Table
 | 6 pm | Development 2,3,4 | Paige/Ellie/Toni/Annabel |
 | 7 pm | Tumbling Silver and Gold | John |
 | Friday: |
-| 4 pm | Fun Dance - Foundation & Development 1 | Chrystal/Toni | 
-| 4.30 | Fun Dance - For all | Chrystal/Toni |
 | 5.30 | Elite, Seniors and Juniors | Kim/Chrystal |
 | Saturday |
 | 12.30 | Acro all levels, Advanced and Minis | Chrystal/Kim |
