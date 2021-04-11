@@ -3,10 +3,10 @@
         <div class="row" id="Artistic_Gymastics">
           <h2>Artistic Gymastics</h2>
           <p>A mixture of floor and apparatus including beam, vault and bars.</p>
-          <ul>
-            <li><a href="https://www.youtube.com/watch?v=Rr-NVhPJRJg">Women’s artistic</a></li>
-            <li><a href="https://www.youtube.com/watch?v=Rr-NVhPJRJg">Men’s artistic</a></li>
-          </ul>
+          <div class="list-group">
+          <a href="https://www.youtube.com/watch?v=Rr-NVhPJRJg" class="list-group-item-primary list-group-item-action">Women’s artistic</a>
+            <a href="https://www.youtube.com/watch?v=UqpDN3dlCW0" class="list-group-item-primary list-group-item-action">Men’s artistic</a>
+        </div>
           <p>Classes are divided by the year of the gymnasts birth, but each class is worked so that children of similar skills and abilities are able to work and progress together. Boys and girls train together in these classes, though they get opportunities to use the gender specific apparatus as part of their training.</p>
           <p>Classes run every week day.</p>
           <table class="timetable">
@@ -52,7 +52,7 @@
   <div class="row" id="Artistic_Gymastics">
 		<h2>Acro Gymastics</h2>
         <p>Competitive gymnastics where gymnasts work together and perform figures consisting of acrobatic moves, dance and tumbling, set to music.</p>
-    <ul>
+    <ul class="list-group list-group-horizontal-xl">
       <li><a href="https://www.youtube.com/watch?v=dLZi7s1mJYc">Acro Gymastics</a></li>
     </ul>
   </div>
