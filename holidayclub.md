@@ -4,29 +4,33 @@
     <div class="container">
   <div class="row">
     <div class="col-sm">
-      Monday
-Wednesday
-Thursday
-Friday
-9.30-13.30
-Pre-book only
-All ages 5-16yrs welcome
+      <ul>
+        <li>Monday</li>
+        <li>Wednesday</li>
+        <li>Thursday</li>
+        <li>Friday</li>
+      </ul>
 
-To find out more email: info@barnsleygymnastics.club
+      9.30-13.30
+      <p>Pre-book only</p>
+      <p>All ages 5-16yrs welcome</p>
+      <p>£17.50 per day inclusive of lunch</p>
+      <p><b>Children entitled to free school meals go free</b></p>
+      <p>20% sibling discount</p>
 
-To book your place go to: www.barnsleygymnastics.club and click 'join
+      <p>To find out more email: <a href="mailto:info@barnsleygymnastics.club">info@barnsleygymnastics.club</a> or ring 01226 728972</p>
 
-us' then select 'Holiday club' from the drop down menu
-
-£17.50 per day inclusive of
-
-lunch
-
-20% sibling discount
+      <p>To book your place go to fill out the form below.</p>
       
     </div>
     <div class="col-sm">
-      One of two columns
+      We offer a wide range of fun activities foryour children. Sessions will be delivered by fullyqualified coaches in our super gymnastics
+centre and will include:
+      <ul>
+        <li>Physical activity- games, dodgeball, dance, gymnastics etc</li>
+        <li>Enrichment activities- board games, crafts etc</li>
+        <li>Healthy lunch</li>
+      </ul>
     </div>
   </div>
 </div>
@@ -36,5 +40,5 @@ lunch
   <div class="row">
 <iframe id="ifrmresize" src="https://app.loveadmin.com/ThirdpartyRegistration.aspx?groupID=6AB46F61FE8F9EFF8C20BAE0207888AE" width="100%"> </iframe>
     <script> iFrameResize({ log: true, autoResize: true }, '#ifrmresize') </script>
-</div>
+  </div>
 </div>
