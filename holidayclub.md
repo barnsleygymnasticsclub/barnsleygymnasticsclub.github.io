@@ -24,7 +24,7 @@
       
     </div>
     <div class="col-sm">
-      We offer a wide range of fun activities foryour children. Sessions will be delivered by fullyqualified coaches in our super gymnastics
+      We offer a wide range of fun activities foryour children. Sessions will be delivered by fully qualified coaches in our super gymnastics
 centre and will include:
       <ul>
         <li>Physical activity- games, dodgeball, dance, gymnastics etc</li>
