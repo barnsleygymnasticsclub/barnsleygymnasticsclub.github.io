@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Exciting News
+---
 # We have exciting news!
 ## Holiday Camps
 We’ll be running a holiday camp through the summer holidays and over the autumn half-term. It will run from 9.30-13.30 on Monday, Wednesday, Thursday and Friday and will cost £17.50 per day, inclusive of lunch. We’ll offer a sibling discount of 20% and children on free school dinners don’t pay anything. Please do spread the word as our holiday camp isn't only for existing members of our club. Everyone is welcome. Our programme of activities will include lots of physical activity/ gymnastics/dance/games, followed by lunch and then enrichment activities around crafts, tabletop games, etc.
