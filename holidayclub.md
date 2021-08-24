@@ -2,7 +2,17 @@
   <div class="container">
     <h1 class="display-4">Summer Holiday Club</h1>
     <div class="container">
-  <div class="row">
+      <div class="jumbotron">
+  <h1 class="display-4">Thank You!</h1>
+  <p class="lead">Our holiday clubs are now closed. Thank you to everyone for your support in these, we hope you've had as much fun as we did.</p>
+        <p>Watch out for news about our spooky Hallowe'en Half-Term Holiday Club</p>
+  <hr class="my-4">
+  <p>If you enjoyed yourself and would like to have a go at gymnastics regularly, click the button to join us.</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="join.html" role="button">Join Us</a>
+  </p>
+</div>
+  <!-- div class="row">
     <div class="col-sm">
       <ul>
         <li>Monday</li>
@@ -32,13 +42,13 @@ centre and will include:
         <li>Healthy lunch</li>
       </ul>
     </div>
-  </div>
+  </div -->
 </div>
   </div>
 </div>
-<div class="container">
+<!-- div class="container">
   <div class="row">
 <iframe id="ifrmresize" src="https://app.loveadmin.com/ThirdpartyRegistration.aspx?groupID=6AB46F61FE8F9EFF8C20BAE0207888AE" width="100%"> </iframe>
     <script> iFrameResize({ log: true, autoResize: true }, '#ifrmresize') </script>
   </div>
-</div>
+</div -->
