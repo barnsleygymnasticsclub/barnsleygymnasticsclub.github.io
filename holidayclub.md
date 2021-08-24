@@ -1,6 +1,6 @@
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4">Summer Holiday Club</h1>
+    <h1 class="display-4">Holiday Club</h1>
     <div class="container">
       <div class="jumbotron">
   <h1 class="display-4">Thank You!</h1>
@@ -9,7 +9,7 @@
   <hr class="my-4">
   <p>If you enjoyed yourself and would like to have a go at gymnastics regularly, click the button to join us.</p>
   <p class="lead">
-    <a class="btn btn-primary btn-lg" href="join.html" role="button">Join Us</a>
+    <a class="btn btn-primary btn-lg btn-info" href="join.html" role="button">Join Us</a>
   </p>
 </div>
   <!-- div class="row">
