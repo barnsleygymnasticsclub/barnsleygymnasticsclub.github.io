@@ -4,7 +4,9 @@
     <div class="container">
   <div class="row">
     <div class="col-lg">
-      <a class="btn btn-primary" href="https://my.barnsley.gov.uk/events/38947/barnsley-gymnastics" role="button">25 July 2022</a>   
+      # 25 July 2022
+      ## 9:30am until 1:30pm
+      <a class="btn btn-primary" href="https://my.barnsley.gov.uk/events/38947/barnsley-gymnastics" role="button">Book</a>   
     </div>
     <div class="col-lg">
       <a class="btn btn-primary" href="https://my.barnsley.gov.uk/events/38947/barnsley-gymnastics" role="button">25 July 2022</a>   
