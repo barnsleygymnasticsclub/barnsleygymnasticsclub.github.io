@@ -4,7 +4,7 @@
     <div class="container">
   <div class="row">
     <div class="col-lg">
-      <button type="button" class="btn btn-primary" href="https://my.barnsley.gov.uk/events/38947/barnsley-gymnastics" role="button">25 July 2022</button>   
+      <a class="btn btn-primary" href="https://my.barnsley.gov.uk/events/38947/barnsley-gymnastics" role="button">25 July 2022</a>   
     </div>
     <div class="col-lg">
              <button type="button" class="btn btn-primary" href="#" role="button">Primary</button>   
