@@ -5,7 +5,11 @@
       <div class="card-columns">
         
 {% for club in site.data.holiday_clubs %}
-        <div class="card w-25">
+  {% assign loopindex = forloop.index | modulo: 4 %}
+  {% if loopindex == 1 %}
+    <div class="row">
+  {% endif %}
+        <div class="card col-sm">
           <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
           <div class="card-body">
             <h5 class="card-title text-dark">{{ club.Title }}</h5>
@@ -13,6 +17,9 @@
             <a href="https://my.barnsley.gov.uk/Events/BookTickets/{{ club.Number }}" target="_blank" class="card-link btn btn-primary">Book</a>
           </div>
         </div>
+  {% if loopindex == 1 %}
+    </div>
+  {% endif %}
 {% endfor %}
 
       </div>
