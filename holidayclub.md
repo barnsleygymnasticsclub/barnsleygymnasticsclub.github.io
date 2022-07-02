@@ -4,7 +4,7 @@
     <div class="container">
         
 {% for club in site.data.holiday_clubs %}
-  {% assign loopindex = forloop.index | modulo: 2 %}
+  {% assign loopindex = forloop.index | modulo: 4 %}
   {% if loopindex == 1 %}
     <!-- start loop -->
     <div class="row">
@@ -17,7 +17,7 @@
             <a href="https://my.barnsley.gov.uk/Events/BookTickets/{{ club.Number }}" target="_blank" class="card-link btn btn-primary">Book</a>
           </div>
         </div>
-  {% if loopindex == 1 %}
+  {% if loopindex == 0 %}
     </div>
     <!-- end loop -->
   {% endif %}
