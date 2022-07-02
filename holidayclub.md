@@ -4,7 +4,7 @@
     <div class="container">
 <div class="card-columns">
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -13,7 +13,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -22,7 +22,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -31,7 +31,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -40,7 +40,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -49,7 +49,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -58,7 +58,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -67,7 +67,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -76,7 +76,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -85,7 +85,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -93,16 +93,7 @@
     <a href="https://my.barnsley.gov.uk/Events/BookTickets/38947" target="_blank" class="card-link btn btn-primary">Book</a>
   </div>
 
-  <div class="card">
-    <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
-  <div class="card-body">
-    <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
-    <h6 class="card-subtitle mb-2 text-muted">9:30am until 1:30pm</h6>
-    <a href="https://my.barnsley.gov.uk/Events/BookTickets/38947" target="_blank" class="card-link btn btn-primary">Book</a>
-  </div>
-
-
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -111,7 +102,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -120,7 +111,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -129,7 +120,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -138,7 +129,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -147,7 +138,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -156,7 +147,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -165,7 +156,7 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
@@ -174,7 +165,16 @@
   </div>
 
 
-  <div class="card">
+  <div class="card w-25">
+    <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
+  <div class="card-body">
+    <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
+    <h6 class="card-subtitle mb-2 text-muted">9:30am until 1:30pm</h6>
+    <a href="https://my.barnsley.gov.uk/Events/BookTickets/38947" target="_blank" class="card-link btn btn-primary">Book</a>
+  </div>
+
+
+  <div class="card w-25">
     <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
