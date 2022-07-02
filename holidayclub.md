@@ -7,7 +7,6 @@
   <div class="card-body">
     <h5 class="card-title text-dark">Mon, 25 July 2022</h5>
     <h6 class="card-subtitle mb-2 text-muted">9:30am until 1:30pm</h6>
-    <p class="card-text text-dark text-small">Come and try our super gymnastics equipment. We have a fast track, a trampoline and a foam pit. Play hide-and-seek, make dens, try our obstacle course, have a tug-of-war and swing from the bars. Test your strength and have fun!</p>
     <a href="https://my.barnsley.gov.uk/Events/BookTickets/38947" target="_blank" class="card-link btn btn-primary">Book</a>
   </div>
 </div>
