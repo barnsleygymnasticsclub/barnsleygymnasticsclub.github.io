@@ -2,11 +2,11 @@
   <div class="container">
     <h1 class="display-4">Barnsley Healthy Holiday Clubs</h1>
     <div class="container">
-      <div class="card-columns">
         
 {% for club in site.data.holiday_clubs %}
-  {% assign loopindex = forloop.index | modulo: 4 %}
+  {% assign loopindex = forloop.index | modulo: 2 %}
   {% if loopindex == 1 %}
+    <!-- start loop -->
     <div class="row">
   {% endif %}
         <div class="card col-sm">
@@ -19,10 +19,9 @@
         </div>
   {% if loopindex == 1 %}
     </div>
+    <!-- end loop -->
   {% endif %}
 {% endfor %}
-
-      </div>
     </div>
   </div>
 </div>
