@@ -4,7 +4,7 @@
     <div class="container">
       <div class="card-columns">
         
-{% for club in site.data.members %}
+{% for club in site.data.holiday_clubs %}
         <div class="card w-25">
           <img class="card-img-top" src="{{ site.baseurl }}/assets/img/239103681_4221236217952071_7560413288161334995_cropped.jpg" alt="Building dens at holiday club">
           <div class="card-body">
