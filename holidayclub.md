@@ -1,8 +1,12 @@
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">Barnsley Healthy Holiday Clubs</h1>
+    <p class="lead">Once again we are pleased to join up with Barnsley Council for our Holiday Clubs.</p>
+    <hr class="my-4">
+    <p>Classes are free for children on free school meals.</p>
+
+
     <div class="container">
-        
 {% for club in site.data.holiday_clubs %}
   {% assign loopindex = forloop.index | modulo: 4 %}
   {% if loopindex == 1 %}
