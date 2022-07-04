@@ -3,7 +3,8 @@
     <h1 class="display-4">Barnsley Healthy Holiday Clubs</h1>
     <p class="lead">Once again we are pleased to join up with Barnsley Council for our Holiday Clubs.</p>
     <hr class="my-4">
-    <p>Classes are free for children on free school meals.</p>
+    <p>Classes are free for children on free school meals, with the Barnsely Council Healthy Holidays code, or £18.00 otherwise, and include a meal.</p>
+    <p>To register, pick your days from the list below and fill in  your. If you do not qualify for free school, we will be in touch to arrange payment. </p>
 
 
     <div class="container">

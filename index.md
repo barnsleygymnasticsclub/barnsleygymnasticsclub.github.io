@@ -9,5 +9,13 @@ layout: page
                 <h1 class="text-dark display-1">Welcome to Barnsley Gymnastics</h1>
             </div>
         </div>
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-4">Barnsley Healthy Holiday Clubs</h1>
+                <p class="lead">Once again we are pleased to join up with Barnsley Council for our Holiday Clubs.</p>
+                <hr class="my-4">
+                <a href="{{ site.baseurl }}{% link holidayclub.md %}" class="btn btn-info btn-lg" >More D</a>
+            </div>
+        </div>
     </div>
 </section>
