@@ -11,13 +11,13 @@ layout: page
         </div>
     </div>
 </section>
-<section id="holidayclub">
+<section id="holidayclub" style="padding: 20px;">
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">Barnsley Healthy Holiday Clubs</h1>
                 <p class="lead welcome-txt">Once again we are pleased to join up with Barnsley Council for our Holiday Clubs.</p>
                 <hr class="my-4">
-                <a href="{{ site.baseurl }}{% link holidayclub.md %}" class="btn btn-info btn-lg light-pink" >More Details Here..</a>
+                <a href="{{ site.baseurl }}{% link holidayclub.md %}" class="btn btn-secondary btn-lg" >More Details Here..</a>
             </div>
         </div>
 </section>
