@@ -4,6 +4,6 @@ title: BGC Newsletter - May 2023
 ---
 <div class="embed-responsive embed-responsive-1by1">
   <video muted autoplay controls>
-    <source src="{{/assets/docs/Barnsley gymnastics newsletter May 2023.mp4" }}" type="video/mp4">
+    <source src="{{"/assets/docs/Barnsley gymnastics newsletter May 2023.mp4" }}" type="video/mp4">
   </video>
 </div>
